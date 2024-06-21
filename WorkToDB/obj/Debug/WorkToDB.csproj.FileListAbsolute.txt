@@ -1,0 +1,84 @@
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\bin\Debug\WorkToDB.exe.config
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\bin\Debug\WorkToDB.exe
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\bin\Debug\WorkToDB.pdb
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csprojResolveAssemblyReference.cache
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.ResolveComReference.cache
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.AboutPlasticWindows.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.BuyerForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ContractForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.DeveleryForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.EmployeeForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.EstimateForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ExecutionWorkForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ExecutionWorkFormTable.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.GreetingForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ListBuyerForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.MaterialForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.MaterialFormTable.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.RequestForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.StartForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Properties.Resources.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.GenerateResource.Cache
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.exe
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.pdb
+E:\WorkToDB\WorkToDB\bin\Debug\WorkToDB.exe.config
+E:\WorkToDB\WorkToDB\bin\Debug\WorkToDB.exe
+E:\WorkToDB\WorkToDB\bin\Debug\WorkToDB.pdb
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.AssemblyReference.cache
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.ResolveComReference.cache
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.AboutPlasticWindows.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.BuyerForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ContractForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.DeveleryForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.EmployeeForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.EstimateForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ExecutionWorkForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ExecutionWorkFormTable.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.GreetingForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ListBuyerForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.MaterialForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.MaterialFormTable.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.RequestForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.StartForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Properties.Resources.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.GenerateResource.cache
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.CoreCompileInputs.cache
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.exe
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.pdb
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.AutorizationForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\bin\Debug\WorkToDB.exe.config
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\bin\Debug\WorkToDB.exe
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\bin\Debug\WorkToDB.pdb
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.AssemblyReference.cache
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.ResolveComReference.cache
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.AboutPlasticWindows.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.AutorizationForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.BuyerForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ContractForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.DeveleryForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.EmployeeForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.EstimateForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ExecutionWorkForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ExecutionWorkFormTable.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.GreetingForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.ListBuyerForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.MaterialForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.MaterialFormTable.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.RequestForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.StartForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Properties.Resources.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.GenerateResource.cache
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.CoreCompileInputs.cache
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.exe
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.pdb
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.QueryForm.resources
+C:\Users\Desiderium HCS\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.QueryWriteForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.AutorizationForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.QueryForm.resources
+\\itcorp.tech\Homes\Student\01630\30\Desktop\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.QueryWriteForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.QueryForm.resources
+E:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.Forms.QueryWriteForm.resources
+D:\WorkToDB\WorkToDB\bin\Debug\WorkToDB.exe.config
+D:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.csproj.ResolveComReference.cache
+D:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.exe
+D:\WorkToDB\WorkToDB\obj\Debug\WorkToDB.pdb
